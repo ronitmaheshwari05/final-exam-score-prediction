@@ -20,7 +20,7 @@ Developed a Linear Regression model to predict students’ final exam marks usin
 - Internal Test 1 (out of 40)  
 - Internal Test 2 (out of 40)  
 - Assignment Score (out of 10)  
-- Daily Study Hours  
+- Daily Study Hours 
 
 Target:
 - Final Exam Marks (out of 100)
