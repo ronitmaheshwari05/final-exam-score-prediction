@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+https://colab.research.google.com/drive/1RrPrWA2x6KszEReFEerrIZRfcQkKsP4B#scrollTo=c_dzXo53IE4G
 
 ## Overview
 Developed a Linear Regression model to predict students’ final exam marks using key academic performance indicators. The project focuses on building a clean, interpretable model with strong predictive capability and realistic output constraints.
