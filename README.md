@@ -48,7 +48,7 @@ Input:
 - Study Hours: 6  
 
 Output:
-- Predicted Final Exam Marks: 95.48  
+- Predicted Final Exam Marks: 95.48   
 
 ## Contributing
 Contributions are welcome. If you would like to improve this project:
